@@ -26,7 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" height="40" alt="pandas logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
   <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.svg" height="40" alt="streamlit logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" height="40" alt="plotly logo />
@@ -34,7 +33,9 @@
 
 ###
 
-<h2 align="left">Contatos 👇.</h2>
+<h2 align="left">Contatos 👇</h2>
+
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/lucas-henrique-usp/" target="_blank">
@@ -46,4 +47,3 @@
 </div>
 
 ###
-  
